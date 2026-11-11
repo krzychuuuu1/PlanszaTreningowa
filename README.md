@@ -7,7 +7,7 @@ other over ESP-NOW, with no router and no pairing step.
 ![Six lit button modules and the master remote](docs/system-in-action.jpg)
 
 Built as a team project (project-based learning) at the Silesian University of Technology
-and presented in January 2026. Polish version of the original notes: [README.pl.md](README.pl.md).
+and presented in January 2026.
 
 ## What it does
 
